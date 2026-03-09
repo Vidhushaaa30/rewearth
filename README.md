@@ -1,11 +1,41 @@
+# Rewearth
 
-  # Sustainable Fashion App UI
+### Sustainable Intra-College Clothing Swap Platform
 
-  This is a code bundle for Sustainable Fashion App UI. The original project is available at https://www.figma.com/design/lnjK8YglAjDeypUADTI1ry/Sustainable-Fashion-App-UI.
+Rewearth is a web platform that allows students within a college community to **swap clothing items instead of buying new ones**. The platform promotes **sustainable fashion, affordability, and reuse** by enabling users to upload, browse, and request clothing items for exchange.
 
-  ## Running the code
+---
 
-  Run `npm i` to install the dependencies.
+## Features
 
-  Run `npm run dev` to start the development server.
-  
+- Upload and list clothing items for swap  
+- Browse clothes shared by other students  
+- Secure login and authentication  
+- Send and manage swap requests  
+- Responsive user interface for easy access  
+
+---
+
+## Tech Stack
+
+**Frontend**
+- React.js
+- Tailwind CSS
+
+**Backend / Services**
+- Firebase Authentication
+- Firebase Firestore
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+
+---
+
+## Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/yourusername/rewearth.git
